@@ -52,8 +52,10 @@
 </div>
 
 ## ❤ Views and Followers
+		<p align="center">
+  <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
+</p>
 <div align="center">
-	<a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 		<img src="https://komarev.com/ghpvc/?username=MateusHoffman">
 	</a>
