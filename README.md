@@ -18,3 +18,11 @@
 |---|---|---|---|
 |<div id='lojc' align="center"><span>HTML🔸CSS🔸JavaScrip🔸Kotlin🔸SQL</span></div>|<div id='lojc' align="center"><span>React🔸Yarn🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸Google Cloud🔸Firebase🔸React Router🔸Android Studio🔸Context API🔸React Hooks🔸Yarn🔸Yarn Compose🔸Local Storage🔸Photoshop🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Google Cloud Plateform🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸Photoshop🔸AfterEffect🔸Android Studio🔸</span></div>|
   </details>
+    
+## 
+ <h3> 📊 GitHub Stats 📊</h3>
+<div align="center">
+  <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parthupatel&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHoffman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	</a>
+</div>
