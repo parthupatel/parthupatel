@@ -27,3 +27,16 @@
   <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthupatel&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=parthupatel&theme=blueberry&hide_border=false"/></a>
 </div>
+    
+##
+
+<div>
+	<h3 align="center">
+		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
+		 My Soft Skills 
+		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
+	<h3>
+	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges, Argumentation<h4>
+</div>
+
+##
