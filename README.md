@@ -21,7 +21,7 @@
     
 ## 
  <h3> 📊 GitHub Stats 📊</h3>
-##	  
+## 	  
 <div align="center">
   <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parthupatel&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" /></a>
   <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthupatel&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
