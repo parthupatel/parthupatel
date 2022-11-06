@@ -40,3 +40,22 @@
 </div>
 
 ##
+		
+![Snake animation]![github-user-contribution](https://user-images.githubusercontent.com/66480577/200155437-b58c9db0-8346-44c7-a168-8c95a1c80677.svg)
+
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>
+		
+<div align="center">
+  <a href="https://instagram.com/parthpatel__offcial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:parth6919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## ❤ Views and Followers
+<div align="center">
+	<a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
+	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=MateusHoffman">
+	</a>
+	<a href="https://github.com/MateusHoffman?tab=followers"><img src="https://img.shields.io/github/followers/MateusHoffman?label=Followers&style=social" 			alt="GitHub Badge"></a>
+</div> 
