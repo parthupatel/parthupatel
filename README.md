@@ -41,7 +41,7 @@
 
 ##
 		
-![Snake animation]![github-user-contribution](https://user-images.githubusercontent.com/66480577/200155437-b58c9db0-8346-44c7-a168-8c95a1c80677.svg)
+![Snake animation] (github-user-contribution](https://user-images.githubusercontent.com/66480577/200155437-b58c9db0-8346-44c7-a168-8c95a1c80677.svg)
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>
 		
@@ -52,7 +52,8 @@
 </div>
 
 ## ❤ Views and Followers
-		<p align="center">
+
+<p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
 <div align="center">
